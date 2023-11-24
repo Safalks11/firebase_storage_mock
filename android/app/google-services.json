@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65831107364",
+    "project_id": "phone-auth-57209",
+    "storage_bucket": "phone-auth-57209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65831107364:android:ac4a091dbdfd708e9451b1",
+        "android_client_info": {
+          "package_name": "com.safal.firebase_storage_mock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaX97DTYkpW4k00or-Ko6hN-Cv68gzDWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
